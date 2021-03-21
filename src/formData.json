@@ -1,0 +1,32 @@
+[
+    {
+        "page_label": "Job Application Form",
+        "fields": [
+            {
+                "field_id": "english_name",
+                "field_label": "Name",
+                "field_placeholder": "Enter name",
+                "field_type": "text",
+                "field_value": "",
+                "field_data_type": "string",
+                "field_required": true
+            },
+            {
+                "field_id": "contact",
+                "field_label": "Contact No.",
+                "field_placeholder": "Enter contact no.",
+                "field_type": "text",
+                "field_data_type": "string",
+                "field_required": false
+            },
+            {
+                "field_id": "identity",
+                "field_label": "Driving License No.",
+                "field_placeholder": "e.g. 012 345 678",
+                "field_type": "text",
+                "field_data_type": "string",
+                "field_required": true
+            }
+        ]
+    }
+]
